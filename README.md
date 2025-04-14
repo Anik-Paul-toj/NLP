@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-toj" alt="anik-paul-toj" /></a> </p>
 
-- 🔭 I’m currently working on **Rare_track**
+- 🔭 I’m currently working on **Raretrack**
 
 - 🌱 I’m currently learning **React Native**
 
